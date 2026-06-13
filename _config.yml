@@ -5,9 +5,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
-name                     : &amp;name "Junteng Liu"
-description              : &amp;description "Junteng Liu's academic homepage"
-url                      : https://rouzedug99.github.io
+name                     : "Junteng Liu"
+description              : "Junteng Liu's academic homepage"
+url                      : "https://rouzedug99.github.io"
 baseurl                  : "/LJT-Homepage"
 repository               : "rouzedug99/LJT-Homepage"
 
@@ -127,7 +127,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &amp;twitter "junteng88716710"
+  username               : "junteng88716710"
 facebook:
   username               :
   app_id                 :
